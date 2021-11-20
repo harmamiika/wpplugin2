@@ -1,0 +1,25 @@
+{
+  "name": "are-you-paying-attention",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "wp-scripts build",
+    "start": "wp-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harmamiika/wpplugin2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harmamiika/wpplugin2/issues"
+  },
+  "homepage": "https://github.com/harmamiika/wpplugin2#readme",
+  "devDependencies": {
+    "@wordpress/scripts": "^19.2.1"
+  }
+}
